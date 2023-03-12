@@ -1,6 +1,6 @@
 # BuscaCep_PrevisaoTempo
  
-<h1>Descrição</h1>
+
 Este programa permite ao usuário buscar por informações de endereços a partir de um CEP ou de um endereço específico. Além disso, o programa também exibe a previsão do tempo para a cidade encontrada.
 
 <h1>Dependências</h1>
